@@ -1,4 +1,5 @@
 # Charlotte Rao - Portfolio
+https://charlotterao0987.github.io/Rao-portfolio/
 Hi :) This is my public portfolio for the Telling Stories with Data Class at CMU . 
 
 # About me
