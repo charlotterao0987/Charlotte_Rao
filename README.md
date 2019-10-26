@@ -1,5 +1,5 @@
 # Charlotte_Rao
-Hi :)
+Hi :) . 
 Link to the live site https://charlotterao0987.github.io/Charlotte_Rao/
 
 ####The Latest News from [the BBC](www.bbc.com/news)
