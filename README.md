@@ -17,8 +17,8 @@ I am planning to create community-engaged arts program that could address social
 * **Technical Tool:** Get familar with various design and visualization tools and platforms
 
 # Portfolio
-[government debt bar chart](dataviz2.md) . 
+[Government Debt Bar Chart](dataviz2.md) 
 
-[working with RAWGRAPH](dataviz3.md)
+[Working with RAWGRAPH](dataviz3.md)
 
 
