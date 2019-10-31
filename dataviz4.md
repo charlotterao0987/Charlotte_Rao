@@ -1,4 +1,4 @@
-legend: {'USA', 'Average'
+legend: {
     formatter: function(label, opts) {
         return label + " - " + opts.w.globals.series[opts.seriesIndex]
     }
