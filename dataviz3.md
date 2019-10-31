@@ -28,10 +28,16 @@ Source: OECD National Accounts Statistics: National Accounts at a Glance
 
 
 The three visualizations tell different stories and convey different ideas to different audience, even though they are created from the same raw data. 
+
+
 **(1) Government debt bar chart (2018)**
 The bar chart is a good visualization for showing size comparisons. This graph focuses on the ratio comparison of one specific year 2018, instead of a period of time. The bar chart is not the best graph for time series, but it is helpful in presenting very large and very small values, like the data here.
+
+
 **(2) Peeswarm Plot (35 countries, 1995-2018)**
 The peeswarm plot is used in presenting 35 different countries in each year from 1995 to 2018. If using scatter plot to show the changing size of the ratio over time, the biggest issue would be the overlay problem, which makes the viewer have a hard time differentiating each individual point. Thus, in this case, the beeswarm plot that is used to emphasize individual points in a distribution is a better visualization. Each data point is clearly visible, and no data are obscured by overplotting.
+
+
 **(3) Scatter Plot (the US and the average, 1995-2018)**
 I used scatter plot to show how this number has been changing over time. To keep the graph simple and easy-to-read, I chose to keep only two values: the US and the average. To highlight the US data, I chose bright color for the US and gray for the average. The purpose of this visualization is to draw the audience to a clear and straightforward conclusion: the government debt in the US has been growing, and this number is considerably higher than the OECD countries. The line chart or the connected scatterplot will be a better choice here, but I could not find them on Rawgraph.
 
