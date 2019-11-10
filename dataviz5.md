@@ -52,6 +52,7 @@ A couple paragraphs describing what your process was.  You should include a few 
 #### Redesign #1
 
 ![Final redesign-scatter plot](graph0HW4.png)
+<img src="graph0HW4.png" width="800" />
 
 #### Redesign #2
 ![Final redesign-line chart](graph2HW4.png)
