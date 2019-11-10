@@ -71,7 +71,7 @@ A couple paragraphs describing what your process was.  You should include a few 
 
 #### Redesign #1
 
-<img src="graph0HW4.png" width="650" />
+<img src="finalgraph1.png" width="650" />
 
 #### Redesign #2
 
