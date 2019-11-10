@@ -52,4 +52,4 @@ A couple paragraphs describing what your process was.  You should include a few 
 
 
 #### Redesign #2
-![Final redesign-line chart](graph2 HW#4.png)
+![Final redesign-line chart](graph2HW4.png)
