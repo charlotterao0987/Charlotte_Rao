@@ -44,3 +44,11 @@ But I will rearrange the order of the bars, making them descending order.
 
 
 ### Final redesigned data visualization
+
+
+
+
+
+
+
+![Final redesign-line chart](graph 2 HW#4.png)
