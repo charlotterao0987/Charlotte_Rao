@@ -40,15 +40,15 @@ But I will rearrange the order of the bars, making them descending order.
 
 
 
-### user feedback
+### User Feedback
 
 
 ### Final redesigned data visualization
 
 
-## Redesign #1
+#### Redesign #1
 ![Final redesign-stacked bar chart](graph1 HW#4.png)
 
 
-## Redesign #2
+#### Redesign #2
 ![Final redesign-line chart](graph 2 HW#4.png)
