@@ -1,4 +1,4 @@
-#### Assignment 3&4
+# Assignment 3&4
 ### written summary and analysis**
 
 ![Original Data Visualization](original.png)
