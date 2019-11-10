@@ -17,6 +17,7 @@ My analysis begins at figuring out what are the main ideas and arguments it trie
 1. **The changes in attendance over time** (museums, galleries, and visual arts, Science and Nature saw increases whereas the performing arts disciplines decline)
 2. **The comparison between free and paid attendance between 11 disciplines**
 
+For me, this graph is useful for the intended audience, and it has everything necessary to make it understandable. However, I think its perceptibility (Can the reader understand the information with minimal effort), intuitiveness and aesthetics.
 
 
 ## 2. Wireframe a Solution by using Balsamiq
