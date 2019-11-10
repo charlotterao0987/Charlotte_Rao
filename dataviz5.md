@@ -79,6 +79,8 @@ I redesigned a bubble chart to show the attendance by disciplines in 2013.
 
 #### Redesign #2
 
+This line graph shows the changes in attendance of different disciplines from 2009 to 2013. Comparing to how it was shown in original DataViz (the small red and green number on the top of each bar is not effective in communicating the changes in cross disciplines directly over time), this redesigned chart clearly shows the trends in each discipline. Here, I want to highlight the comparison between visual arts and performing arts, so I use gray for all the other disciplines except for visual arts and performing arts. To reduce the text, I  also removed the labels of them. I found the color grouping (orange-yellow for museums and visual arts, blue-purple for performing arts) here is quite helpful.
+ 
 
 <img src="graph222HW4.png" width="650" />
 
