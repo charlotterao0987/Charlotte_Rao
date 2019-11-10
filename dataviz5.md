@@ -50,5 +50,4 @@ But I will rearrange the order of the bars, making them descending order.
 
 
 
-
 ![Final redesign-line chart](graph 2 HW#4.png)
