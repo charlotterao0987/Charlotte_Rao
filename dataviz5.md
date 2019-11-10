@@ -71,6 +71,12 @@ A couple paragraphs describing what your process was.  You should include a few 
 
 #### Redesign #1
 
+I redesigned a bubble chart to show the attendance by disciplines in 2013. 
+1.	I use the same color scheme in both charts: orange-yellow for museums and visual arts, blue-purple for performing arts, and green for education and community arts. 
+2.	The Y-axis measures paid attendance, and X-axis measures free attendance. In this way, the audience can easily read the number of free/paid attendance for a certain discipline.
+3.	I added a diagonal to help the viewer see which disciplines have more paid attendance over the free one at a glance.
+4.	The size of bubbles indicates the total number of attendance. The comparison is straightforward.
+
 <img src="finalgraph1.png" width="650" />
 
 #### Redesign #2
