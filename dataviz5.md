@@ -34,3 +34,13 @@ But I will rearrange the order of the bars, making them descending order.
 
 
 ![Wireframe-line chart](New Mockup 2.png)
+
+
+
+
+
+
+### user feedback
+
+
+### Final redesigned data visualization
