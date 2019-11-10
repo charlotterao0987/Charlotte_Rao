@@ -4,6 +4,8 @@
 
 ### written summary and analysis
 
+Include a short paragraph on why you selected this particular data visualization.
+
 ![Original Data Visualization](original.png)
 
 ### Wireframe a solution by using Balsamiq
@@ -41,6 +43,8 @@ But I will rearrange the order of the bars, making them descending order.
 
 
 ### Final redesigned data visualization
+
+A couple paragraphs describing what your process was.  You should include a few insights you gained from the critique method, and what it led you to think about when considering a redesign, if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback.  If it led you to change anything about your data visualization's design, mention what that was.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
 
 #### Redesign #1
