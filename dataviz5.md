@@ -54,4 +54,7 @@ A couple paragraphs describing what your process was.  You should include a few 
 <img src="graph0HW4.png" width="650" />
 
 #### Redesign #2
-![Final redesign-line chart](graph22HW4.png)
+
+
+<img src="graph222HW4.png" width="650" />
+
