@@ -48,9 +48,9 @@ A couple paragraphs describing what your process was.  You should include a few 
 
 
 #### Redesign #1
-![Final redesign-stacked bar chart](graph1 HW#4.png)
+![Final redesign-stacked bar chart](graph1HW4.png)
 
-<img src="graph1 hw#4.png" width="800" />
+<img src="graph1HW4.png" width="800" />
 
 #### Redesign #2
 ![Final redesign-line chart](graph2 HW#4.png)
