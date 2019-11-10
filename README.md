@@ -21,5 +21,5 @@ I am planning to create community-engaged arts program that could address social
 
 [Working with RAWGRAPH](dataviz3.md)
 
-[Assignment 4 Redesign]()
+[Assignment 4 Redesign](dataviz5.md)
 
