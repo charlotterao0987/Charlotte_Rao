@@ -54,7 +54,9 @@ I got some critical feedback:
 1.   The first stacked bar chart is useful in showing the comparison between the total attendance in 11 disciplines and the proportion of free and paid audience in each category. However, I would love to know the relationship between the pattern of participation and different disciplines. For example, which disciplines, visual arts, or performing arts have a higher percentage of paid attendance? 
 2.   In the bar chart, it is hard to see the ranking of paid and free attendance, respectively. Only total attendance.
 3.   It might be not that easy to group visual arts, performing arts, and others by colors in the stacked bar chart. In Tableau, I could only use two colors for free and paid, but I cannot customize the color for each bar. (Maybe there is a way that I don’t know)
-Here is the first bar chart I made in Tableau.
+
+
+Here is the first bar chart I made in Tableau:
 ![Final redesign-stacked bar chart](graph1HW4.png)
 
 
