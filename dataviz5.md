@@ -22,6 +22,15 @@ preforming arts (dance + music +theater +other)
 (education +community)
 council services
 But I will rearrange the order of the bars, making them descending order.
+
+
+
+
 ![Wireframe-Stacked Bar](New Mockup 1.png)
+
+
+
+
+
 
 ![Wireframe-line chart](New Mockup 2.png)
