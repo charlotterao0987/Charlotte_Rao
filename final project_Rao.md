@@ -9,6 +9,9 @@ Story Structure:
 
 <img src="Paper.Paper_Tools.1.png" width="550" />
 
+
+<img src="Paper.Paper_Tools.3.png" width="550" />
+
 uncontrolled construction
 1960-1990 the housing affordability crisis
 hong kong housing price (dataviz)
