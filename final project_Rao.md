@@ -20,7 +20,7 @@ hong kong housing price
 oral history + picture
 6. 1994: the demolition . 
 where did the people go?
-7. **call to action: beyond the striking images: care about and respect the people behind**
+7. **call to action: beyond the striking images: care about and respect the people behind** . 
 Although it looks like a dystopia, nobody can deny the fact that the Kowloon Walled City once provided those in need with a place called home.
 
 
