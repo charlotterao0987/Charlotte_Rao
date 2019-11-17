@@ -6,6 +6,9 @@ Story Structure:
 1. teaser: **a new aesthetic paradigm**: a more nostalgic and romanticized version protrayed by popular media and game outlets
 2. Introduction: the city of darkness. background 
 3. population density (dataviz1) + inhabitants growth (dataviz2)
+
+<img src="Paper.Paper_Tools.1.png" width="550" />
+
 uncontrolled construction
 1960-1990 the housing affordability crisis
 hong kong housing price (dataviz)
