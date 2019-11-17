@@ -26,42 +26,31 @@ Although it looks like a dystopia, nobody can deny the fact that the Kowloon Wal
 
 
 ## Initial Sketches
-1. teaser: **a new aesthetic paradigm**: a more nostalgic and romanticized version protrayed by popular media and game outlets
-2. Introduction: the city of darkness. background 
-3. population density (dataviz1) + inhabitants growth (dataviz2)
+
+population density (dataviz1)
 
 <img src="Paper.Paper_Tools.1.png" width="550" />
 
+inhabitants growth (dataviz2)
 
 <img src="Paper.Paper_Tools.3.png" width="550" />
 
-
-4. Reason why more people choose to live in there---rent (dataviz3)
+rent and price comparison between Walled City and Kowloon Average (dataviz3)
 <img src="table.png" width="550" />
-5. Who lived in there? The story of inhabitants
+
 demographic structure (dataviz4)
 <img src="demographic.png" width="550" />
 
-
-
 pictures showing sharing of living quarters among households
-
-“life was poor, but we were very happy"
-
-oral history + picture
 
 <img src="pie.png" width="550" />
 
 business and factory establishments (dataviz6)
 <img src="business.png" width="550" />
-
-
-oral history + picture
-
-
-6. 1994: the demolition .     
+    
 where did the people go? (dataviz7)
 <img src="move.png" width="550" />
+
 housing affordability and income gap
 <img src="Paper.Paper_Tools.7.png" width="550" />
 
