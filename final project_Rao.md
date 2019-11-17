@@ -1,4 +1,6 @@
-# An outline
+# Part 1
+
+## An outline
 
 For the final project, I want to tell the story of **Hong Kong Kowloon Walled City (九龙寨城）**, once the most crowded place on Earth. It is well known for its dark and bizzare side: dystopia, anarchy, slum, crime, lawless, cyberpunk...But Kowloon Walled City is more than just these descriptions. **It represents a unique and irreplaceable urban life and collective community memory.** Therefore, this data visualization will give an inside look at how people living their life in Kowloon Walled City, a place they call, home.
 
@@ -24,7 +26,7 @@ Although it looks like a dystopia, nobody can deny the fact that the Kowloon Wal
 
 
 
-# Initial Sketches
+## Initial Sketches
 1. teaser: **a new aesthetic paradigm**: a more nostalgic and romanticized version protrayed by popular media and game outlets
 2. Introduction: the city of darkness. background 
 3. population density (dataviz1) + inhabitants growth (dataviz2)
@@ -64,7 +66,7 @@ Although it looks like a dystopia, nobody can deny the fact that the Kowloon Wal
 
 
 
-# The data
+## The data
 I will use multiple datasets. The main datasource of Kowloon Walled City is a research paper: Ho, S., University of Hong Kong Centre of Urban Studies, and Urban Planning. Redevelopment of Kowloon Walled City: A Feasibility Study, 1986.
 
 Following are the datasources I used:
@@ -102,7 +104,7 @@ https://data.oecd.org/inequality/income-inequality.htm
 http://www.demographia.com/dhi.pdf
 
 
-# Method and Medium
+## Method and Medium
 I will use shorthand to build the story. Because I think Shorthand is a useful tool to put all the multimedia materials together and achieve audience engagement. I will create an immersive experience by using text over media, BG scrollmation, image and video. Besides its cyberpunk elements and aesthtic value, the story will be more about the residents and their real life. Therefore, historical photos and videos will be used to 'recreate' the demolished city. 
 
 potential images or video:
