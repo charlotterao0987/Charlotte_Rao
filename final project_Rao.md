@@ -65,8 +65,35 @@ Although it looks like a dystopia, nobody can deny the fact that the Kowloon Wal
 
 
 # The data
-A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I will use multiple datasets. The main datasource of Kowloon Walled City is a research paper: Ho, S., University of Hong Kong Centre of Urban Studies, and Urban Planning. Redevelopment of Kowloon Walled City: A Feasibility Study, 1986.
+
+Following are the datasources I used:
+* density of population:
+https://www1.nyc.gov/site/planning/planning-level/nyc-population/population-facts.page
+https://en.wikipedia.org/wiki/Kowloon_Walled_City
+http://worldpopulationreview.com/world-cities/mumbai-population/
+
+* inhabitants change:
+https://en.wikipedia.org/wiki/Kowloon_Walled_City#Population
+
+* Rent: Hong Kong Government Rating and Evaluation Department webiste
+https://www.rvd.gov.hk/en/property_market_statistics/index.html
+
+* demographic structure:
+research paper
+http://ebook.lib.hku.hk/HKG/B36228527.pdf
+
+* the number of business and factory information: the Kowloon Walled City Kai Fong Welfare Advancement Association 
+research paper
+http://ebook.lib.hku.hk/HKG/B36228527.pdf
+
+* the destination of clearees after demolition: The Hong Kong Housing Authority
+research paper
+http://ebook.lib.hku.hk/HKG/B36228527.pdf
+
+* housing affordability and income gap:
+https://data.oecd.org/inequality/income-inequality.htm
+http://www.demographia.com/dhi.pdf
 
 
 # Method and Medium
