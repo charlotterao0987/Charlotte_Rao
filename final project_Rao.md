@@ -70,7 +70,9 @@ I will use multiple datasets. The main datasource of Kowloon Walled City is a re
 Following are the datasources I used:
 * density of population:
 https://www1.nyc.gov/site/planning/planning-level/nyc-population/population-facts.page
+
 https://en.wikipedia.org/wiki/Kowloon_Walled_City
+
 http://worldpopulationreview.com/world-cities/mumbai-population/
 
 * inhabitants change:
@@ -80,19 +82,23 @@ https://en.wikipedia.org/wiki/Kowloon_Walled_City#Population
 https://www.rvd.gov.hk/en/property_market_statistics/index.html
 
 * demographic structure:
+
 research paper
 http://ebook.lib.hku.hk/HKG/B36228527.pdf
 
 * the number of business and factory information: the Kowloon Walled City Kai Fong Welfare Advancement Association 
+
 research paper
 http://ebook.lib.hku.hk/HKG/B36228527.pdf
 
 * the destination of clearees after demolition: The Hong Kong Housing Authority
+
 research paper
 http://ebook.lib.hku.hk/HKG/B36228527.pdf
 
 * housing affordability and income gap:
 https://data.oecd.org/inequality/income-inequality.htm
+
 http://www.demographia.com/dhi.pdf
 
 
@@ -102,6 +108,8 @@ I will use shorthand to build the story. Because I think Shorthand is a useful t
 potential images or video:
 
 [Documentary](https://www.youtube.com/watch?v=dj_8ucS3lMY&t=546s/ )
+
+
 [photos by Gred Girard](http://www.greggirard.com/work/kowloon-walled-city--13/ )
 
 
