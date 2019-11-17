@@ -35,33 +35,43 @@ Although it looks like a dystopia, nobody can deny the fact that the Kowloon Wal
 
 <img src="Paper.Paper_Tools.3.png" width="550" />
 
-uncontrolled construction
-1960-1990 the housing affordability crisis
-hong kong housing price (dataviz)
 
 4. Reason why more people choose to live in there---rent (dataviz3)
 <img src="table.png" width="550" />
 5. Who lived in there? The story of inhabitants
 demographic structure (dataviz4)
 <img src="demographic.png" width="550" />
+
+
+
 pictures showing sharing of living quarters among households
-“life was poor, but we were very happy’
+
+“life was poor, but we were very happy"
+
 oral history + picture
-dataviz5
+
 <img src="pie.png" width="550" />
+
+
+
+
 business and factory establishments (dataviz6)
 <img src="business.png" width="550" />
+
+
 oral history + picture
 
 
-6. 1994: the demolition
+6. 1994: the demolition .     
+
+
+
 where did the people go? (dataviz7)
 <img src="move.png" width="550" />
+
+
+housing affordability and income gap
 <img src="Paper.Paper_Tools.7.png" width="550" />
-
-
-7. **call to action: beyond the striking images: care about and respect the people behind**
-Although it looks like a dystopia, nobody can deny the fact that the Kowloon Walled City once provided those in need with a place called home.
 
 
 
