@@ -65,8 +65,14 @@ Although it looks like a dystopia, nobody can deny the fact that the Kowloon Wal
 
 
 # The data
-
+A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 
 # Method and Medium
-shorthand
+I will use shorthand to build the story. Because I think Shorthand is a useful tool to put all the multimedia materials together and achieve audience engagement. I will create an immersive experience by using text over media, BG scrollmation, image and video. Besides its cyberpunk elements and aesthtic value, the story will be more about the residents and their real life. Therefore, historical photos and videos will be used to 'recreate' the demolished city. 
+
+potential images or video:
+[1]: https://www.youtube.com/watch?v=dj_8ucS3lMY&t=546s/ "documentary"
+[2]: http://www.greggirard.com/work/kowloon-walled-city--13/ "photos by Gred Girard"
+
