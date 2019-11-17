@@ -27,13 +27,14 @@ oral history + picture
 dataviz5
 <img src="pie.png" width="550" />
 business and factory establishments (dataviz6)
-
+<img src="business.png" width="550" />
 oral history + picture
 6. 1994: the demolition
 where did the people go? (dataviz7)
+<img src="move.png" width="550" />
+<img src="Paper.Paper_Tools.7.png" width="550" />
 7. **call to action: beyond the striking images: care about and respect the people behind**
 Although it looks like a dystopia, nobody can deny the fact that the Kowloon Walled City once provided those in need with a place called home.
-
 
 
 
