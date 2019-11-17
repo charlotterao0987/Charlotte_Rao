@@ -52,9 +52,6 @@ oral history + picture
 
 <img src="pie.png" width="550" />
 
-
-
-
 business and factory establishments (dataviz6)
 <img src="business.png" width="550" />
 
@@ -63,13 +60,8 @@ oral history + picture
 
 
 6. 1994: the demolition .     
-
-
-
 where did the people go? (dataviz7)
 <img src="move.png" width="550" />
-
-
 housing affordability and income gap
 <img src="Paper.Paper_Tools.7.png" width="550" />
 
