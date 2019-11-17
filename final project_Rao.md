@@ -101,7 +101,7 @@ I will use shorthand to build the story. Because I think Shorthand is a useful t
 
 potential images or video:
 
-[1]: https://www.youtube.com/watch?v=dj_8ucS3lMY&t=546s/ "documentary"
+[Documentary](https://www.youtube.com/watch?v=dj_8ucS3lMY&t=546s/ )
+[photos by Gred Girard](http://www.greggirard.com/work/kowloon-walled-city--13/ )
 
-[2]: http://www.greggirard.com/work/kowloon-walled-city--13/ "photos by Gred Girard"
 
