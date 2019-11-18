@@ -5,7 +5,7 @@
 For the final project, I want to tell the story of **Hong Kong Kowloon Walled City (九龙寨城）**, once the most crowded place on Earth. It is well known for its dark and bizzare side: dystopia, anarchy, slum, crime, lawless, cyberpunk...But Kowloon Walled City is more than just these descriptions. **It represents a unique and irreplaceable urban life and collective community memory.** Therefore, this data visualization will give an inside look at how people living their life in Kowloon Walled City, a place they call, home.
 
 **Story Structure:**
-1. teaser: **a new aesthetic paradigm**: a more nostalgic and romanticized version protrayed by popular media and game outlets
+1. teaser: **a new aesthetic paradigm**: a more nostalgic and romanticized version of Kowloon Walled City portrayed by popular media and game outlets
 2. Introduction: the city of darkness. background 
 3. population density + inhabitants growth 
 uncontrolled construction
