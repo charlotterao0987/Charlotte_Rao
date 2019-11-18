@@ -20,9 +20,8 @@ oral history + picture
 
 6. 1994: the demolition . 
 where did the people go?
-7. **call to action: beyond the striking images: care about and respect the people behind** . 
-Although it looks like a dystopia, nobody can deny the fact that the Kowloon Walled City once provided those in need with a place called home.
-
+7. **call to action: 
+It is not just a cluster of buildings. It is a representative, a symbol of Hong Kong – hardworking, the perseverance to improve life in such a crowded space, the spirit of struggling. It represents certain values or spirit of struggle and resistance. 
 
 
 ## Initial Sketches
