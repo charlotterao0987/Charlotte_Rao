@@ -16,8 +16,8 @@ hong kong housing price
 * demographic structure 
 * sharing of living quarters among households
 * business and factory establishments
-
 oral history + picture
+
 6. 1994: the demolition . 
 where did the people go?
 7. **call to action: beyond the striking images: care about and respect the people behind** . 
