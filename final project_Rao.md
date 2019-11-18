@@ -1,4 +1,4 @@
-# Part 1
+# Final Project: Discovering the City of Darkness-Part 1
 
 ## An outline
 
