@@ -45,3 +45,8 @@ I interviewed three people from different background: Journalism, Econ & Finance
 3. too much text + no background color--> use dark color to set the tone
 
 ## (3) Revised wireframes / visualizations / storyboards based on what you heard
+
+
+Based on the feedback I received, I decided to add a moodboard 
+
+<img src="moodboard.png" width="800" />
