@@ -52,10 +52,9 @@ Based on the feedback I received, I decided to add a moodboard, displaying visua
 <img src="moodboard.png" width="800" />
 
 i will also delete the heading of 'housing affordability issue' and change it to 'The demolition of kwc'
-Here is the revised version of 'Housing Affordability graph'
 
-<img src="housing.png" width="800" />
-
+Here is the new storyboard:
+<img src="storyboard.png" width="800" />
 
 
 Source of Pictures:
