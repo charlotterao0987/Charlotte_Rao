@@ -12,12 +12,16 @@
 
 ## (2) Creation of a user research protocol and completion of at least three interviews
 
+### target audience
+people interested in urban history and urban development. 
+Cyberpunk fan
+
 ### Goals
 1. Evaluate if the storytelling narrative is clear enough
 2. Evaluate if the data visualizations effective in telling story
 3. Identify the unclear and confusing parts and what needs to be fixed
 
-### Research questions:
+### Research questions
 1.	Have you heard about this story before? Do you understand what this story is about?
 2.	What part of the presentation is confusing?
 3.	Did you notice any problem need to be fixed?
@@ -26,6 +30,7 @@
 6.	Who is the primary audience for this? Do you think this visualization is effective for reaching that audience? Why or why not?
 
 ### Script:
+I interviewed three people from different background: Journalism, Econ & Finance Policy, and Arts Management, 2 female, 1 male. One of them are familar with Cyberpunk culture. I hope they can bring different perspectives to this project.
 <img src="A1.png" width="800" />
 <img src="a2.png" width="800" />
 <img src="A3.png" width="800" />
@@ -36,3 +41,5 @@
 1. Unclear parts: the ending of KWC. Housing crisis graph. The connection between the graph and context. 
 2. Graph need to be improved: density graph (can be misundertood as the size?) change to a better way to show population density
 3. too much text + no background color--> use dark color to set the tone
+
+## (3) Revised wireframes / visualizations / storyboards based on what you heard
