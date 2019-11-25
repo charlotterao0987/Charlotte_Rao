@@ -12,7 +12,7 @@
 
 ## (2) Creation of a user research protocol and completion of at least three interviews
 
-### target audience
+### Target Audience
 people interested in urban history and urban development. 
 Cyberpunk fan
 
@@ -31,6 +31,8 @@ Cyberpunk fan
 
 ### Script:
 I interviewed three people from different background: Journalism, Econ & Finance Policy, and Arts Management, 2 female, 1 male. One of them are familar with Cyberpunk culture. I hope they can bring different perspectives to this project.
+
+
 <img src="A1.png" width="800" />
 <img src="a2.png" width="800" />
 <img src="A3.png" width="800" />
