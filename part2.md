@@ -12,6 +12,11 @@
 
 ## (2) Creation of a user research protocol and completion of at least three interviews
 
+### Goals
+1. Evaluate if the storytelling narrative is clear enough
+2. Evaluate if the data visualizations effective in telling story
+3. Identify the unclear and confusing parts and what needs to be fixed
+
 ### Research questions:
 1.	Have you heard about this story before? Do you understand what this story is about?
 2.	What part of the presentation is confusing?
