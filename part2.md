@@ -47,6 +47,10 @@ I interviewed three people from different background: Journalism, Econ & Finance
 ## (3) Revised wireframes / visualizations / storyboards based on what you heard
 
 
-Based on the feedback I received, I decided to add a moodboard 
+Based on the feedback I received, I decided to add a moodboard, displaying visual elements and setting the tone for my storytelling.
 
 <img src="moodboard.png" width="800" />
+
+i will also delete the heading of 'housing affordability issue' and change it to 'The demolition of kwc'
+
+
