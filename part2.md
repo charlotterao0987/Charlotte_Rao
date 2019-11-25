@@ -26,5 +26,9 @@
 6.	Who is the primary audience for this? Do you think this visualization is effective for reaching that audience? Why or why not?
 
 ### Script:
-
+<img src="A1.png" width="800" />
+<img src="a2.png" width="800" />
+<img src="A3.png" width="800" />
+<img src="A4.png" width="800" />
+<img src="A5.png" width="800" />
 ### Findings:
