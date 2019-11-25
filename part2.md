@@ -64,4 +64,19 @@ https://imgur.com/r/Cyberpunk/TCEvRfT
 https://roboticnetwork.tumblr.com/post/73250724341/tacticalneuralimplant-kowloon-walled-city
 https://www.deviantart.com/scifilicious/art/GHOST-IN-THE-SHELL-95-Tribute-785127354
 
+data source:
+density of population: https://www1.nyc.gov/site/planning/planning-level/nyc-population/population-facts.page
+https://en.wikipedia.org/wiki/Kowloon_Walled_City
+
+http://worldpopulationreview.com
+
+inhabitants change: https://en.wikipedia.org/wiki/Kowloon_Walled_City#Population
+
+Rent: Hong Kong Government Rating and Evaluation Department webiste https://www.rvd.gov.hk/en/property_market_statistics/index.html
+
+the number of business and factory information: the Kowloon Walled City Kai Fong Welfare Advancement Association
+research paper http://ebook.lib.hku.hk/HKG/B36228527.pdf
+
+housing affordability and income gap: https://data.oecd.org/inequality/income-inequality.htm
+http://www.demographia.com/dhi.pdf
 
