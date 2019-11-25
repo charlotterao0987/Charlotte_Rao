@@ -31,4 +31,8 @@
 <img src="A3.png" width="800" />
 <img src="A4.png" width="800" />
 <img src="A5.png" width="800" />
+
 ### Findings:
+1. Unclear parts: the ending of KWC. Housing crisis graph. The connection between the graph and context. 
+2. Graph need to be improved: density graph (can be misundertood as the size?) change to a better way to show population density
+3. too much text + no background color--> use dark color to set the tone
