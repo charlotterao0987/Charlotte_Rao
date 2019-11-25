@@ -56,3 +56,13 @@ Here is the revised version of 'Housing Affordability graph'
 
 <img src="housing.png" width="800" />
 
+
+
+Source of Pictures:
+https://twitter.com/josefbsharah/status/856537901227802626
+https://bassman5911.tumblr.com/post/61635974226/metropolis225-am-by-toshio-hatanaka
+https://imgur.com/r/Cyberpunk/TCEvRfT
+https://roboticnetwork.tumblr.com/post/73250724341/tacticalneuralimplant-kowloon-walled-city
+https://www.deviantart.com/scifilicious/art/GHOST-IN-THE-SHELL-95-Tribute-785127354
+
+
