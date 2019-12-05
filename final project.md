@@ -1,4 +1,5 @@
 # Final Project 'Behind the Scenes'
+[Link to the Final Project Shorthand](https://carnegiemellon.shorthandstories.com/crtswd/index.html)
 
 ## The Idea
 
@@ -14,8 +15,8 @@ sharing of living quarters among households
 * 1994: the demolition . where did the people go?
 * call to action: 
 It is not just a cluster of buildings. It is a representative, a symbol of Hong Kong – hardworking, the perseverance to improve life in such a crowded space, the spirit of struggling. It represents certain values or spirit of struggle and resistance. 
-Maybe a better solution instead of evictions and clearance? UN Sustainable Development Goal No.11: Goal 11: Make cities and human settlements inclusive, safe, resilient and sustainable
-To achieve slum reduction, poliymaker should focus on preventing slums from forming, instead of mass evictions
+Maybe a better solution instead of evictions and clearance? UN Sustainable Development Goal 11: Make cities and human settlements inclusive, safe, resilient and sustainable
+To achieve slum reduction, policymaker should focus on preventing slums from forming, instead of mass evictions
 
 ### 2. Summary of the Project
 This is a story about a place in Hong Kong called Kowloon Walled City that was demolished in 1994. It represents a unique and irreplaceable urban life and collective community memory. Therefore, this data visualization will give an inside look at how people living their life in Kowloon Walled City, a place they call, home.
@@ -119,23 +120,23 @@ answering the question 'why would I care about what you are saying' is the key t
 2. Doing user research is crucial in ensuring the whole story engaging. This step helped me improve my story structure a lot.
 
 ### Link to the final project
-
+https://carnegiemellon.shorthandstories.com/crtswd/index.html
 
 ## References
 
 ### Pictures
 
-[Silhouette Photo of Person Walking in Alley] (https://www.pexels.com/photo/silhouette-photo-of-person-walking-in-alley-3029352/) by Aleksandar Pasaric licensed under Pexels license 
+[Silhouette Photo of Person Walking in Alley](https://www.pexels.com/photo/silhouette-photo-of-person-walking-in-alley-3029352/) by Aleksandar Pasaric licensed under Pexels license 
 
 
-["cyberpunk 1"] (https://www.behance.net/gallery/75440891/cyberpunk-1) by Sheam Bo is licensed under CC BY 4.0 
+["cyberpunk 1"](https://www.behance.net/gallery/75440891/cyberpunk-1) by Sheam Bo is licensed under CC BY 4.0 
 
-[vaporwave photo] (https://www.behance.net/gallery/75440891/cyberpunk-1) under public domain license
+[vaporwave photo](https://www.behance.net/gallery/75440891/cyberpunk-1) under public domain license
 
-["Hong Kong Illustrations"] (https://www.behance.net/gallery/53380177/Hong-Kong-Illustrations) by Evgeny Bondarenko is licensed under CC BY-NC-ND 4.0 
+["Hong Kong Illustrations"](https://www.behance.net/gallery/53380177/Hong-Kong-Illustrations) by Evgeny Bondarenko is licensed under CC BY-NC-ND 4.0 
 
 
-All the rest of images: [Kowloon Walled City 九龍城寨 - Photos - 80年代-02.jpg] (https://www.flickr.com/photos/eager/7243372632/) by 準建築人手札網站 Forgemind ArchiMedia is licenced under CC BY 2.0Data 
+All the rest of images: [Kowloon Walled City 九龍城寨 - Photos - 80年代-02.jpg](https://www.flickr.com/photos/eager/7243372632/) by 準建築人手札網站 Forgemind ArchiMedia is licenced under CC BY 2.0Data 
 
 
 ### Data
