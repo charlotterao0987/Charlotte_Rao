@@ -23,4 +23,7 @@ I am planning to create community-engaged arts program that could address social
 
 [Assignment 4 Redesign](dataviz5.md)
 
+[Course Assignment](Course Assignment.md)
+
+
 [Final Project](final project.md)
