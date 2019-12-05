@@ -37,6 +37,75 @@ http://ebook.lib.hku.hk/HKG/B36228527.pdf
 I will use shorthand to build the story. Because I think Shorthand is a useful tool to put all the multimedia materials together and achieve audience engagement. I will create an immersive experience by using text over media, BG scrollmation, image and video. Besides its cyberpunk elements and aesthtic value, the story will be more about the residents and their real life. Therefore, historical photos and videos will be used to ‘recreate’ the demolished city.
 
 ## Design and User Research
+### Initial Sketches
+
+population density (dataviz1)
+
+<img src="Paper.Paper_Tools.1.png" width="400" />
+
+inhabitants growth (dataviz2)
+
+<img src="Paper.Paper_Tools.3.png" width="400" />
+
+rent and price comparison between Walled City and Kowloon Average (dataviz3)
+<img src="table.png" width="400" />
+
+demographic structure (dataviz4)
+<img src="demographic.png" width="400" />
+
+pictures showing sharing of living quarters among households
+
+<img src="pie.png" width="400" />
+
+business and factory establishments (dataviz6)
+<img src="business.png" width="400" />
+    
+where did the people go? (dataviz7)
+<img src="move.png" width="400" />
+
+housing affordability and income gap
+<img src="Paper.Paper_Tools.7.png" width="400" />
+
+### Storyboard
+<img src="storyboard.png" width="800" />
+
+### Moodboard
+<img src="moodboard.png" width="800" />
+
+### User Research
+#### Target Audience
+people interested in urban history and urban development. 
+Cyberpunk fan
+
+#### Goals
+1. Evaluate if the storytelling narrative is clear enough
+2. Evaluate if the data visualizations effective in telling story
+3. Identify the unclear and confusing parts and what needs to be fixed
+
+#### Research questions
+1.	Have you heard about this story before? Do you understand what this story is about?
+2.	What part of the presentation is confusing?
+3.	Did you notice any problem need to be fixed?
+4.	What is your strongest feeling after this presentation?
+5.	Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
+6.	Who is the primary audience for this? Do you think this visualization is effective for reaching that audience? Why or why not?
+
+#### Script:
+I interviewed three people from different background: Journalism, Econ & Finance Policy, and Arts Management, 2 female, 1 male. One of them are familar with Cyberpunk culture. I hope they can bring different perspectives to this project.
 
 
+<img src="A1.png" width="800" />
+<img src="a2.png" width="800" />
+<img src="A3.png" width="800" />
+<img src="A4.png" width="800" />
+<img src="A5.png" width="800" />
 
+#### Findings:
+1. Unclear parts: the ending of KWC. Housing crisis graph. The connection between the graph and context. 
+2. Graph need to be improved: density graph (can be misundertood as the size?) change to a better way to show population density
+3. too much text + no background color--> use dark color to set the tone
+
+
+## Final data story
+### Intended Audience
+The intended audience will be people who are interested in urban history and urban development, and policymakers. 
