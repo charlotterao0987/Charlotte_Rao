@@ -27,4 +27,4 @@ I am planning to create community-engaged arts program that could address social
 
 [Final Project Part 2](part2.md)
 
-[Final Project Part 3)(final project.md)
+[Final Project Part 3](final project.md)
